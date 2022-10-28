@@ -1,4 +1,4 @@
-## AppRunner Leaderboard Frontend
+## App Runner Leaderboard Frontend
 Note: This is not Production grade and simply meant as a demo
 
 
@@ -9,12 +9,10 @@ We will be setting up a leaderboard application which is comprised of two micros
 * Backend: https://github.com/aws-samples/apprunner-leaderboard-backend
 
 ## AWS Services
-
-## Deployment Instructions
-
+* App Runner
 
 ## Teardown Instructions
-- Go to AppRunner console and delete the service.
+Go to App Runner console and delete the service.
 
 ## License
 
