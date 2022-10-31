@@ -11,8 +11,8 @@ We will be setting up a leaderboard application which is comprised of two micros
 ## AWS Services
 * App Runner
 
-## Teardown Instructions
-Go to App Runner console and delete the service.
+## Detailed Instructions
+https://aws.amazon.com/blogs/containers/deep-dive-on-aws-app-runner-private-services/
 
 ## License
 
