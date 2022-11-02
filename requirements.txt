@@ -1,4 +1,5 @@
-Flask==1.0.2
-Werkzeug==0.15.5
+Flask==2.0.3
+Werkzeug==2.0.3
+inja2==3.1.1
 requests
 gunicorn==20.0.0
